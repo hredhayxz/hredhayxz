@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+I am Md Alhaz Mondal Hredhay. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
+
+Skills I have
+Languages : C, C++, C#, Java, Dart
+Strong DSA and problem solving skill
+Frameworks : Flutter
+Database: SQLite
+Strong knowledge in RESTful web-services/API
+Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team
+Proper knowledge of Github
+Know about business analysis
+
+Reach me at
+
+Email : amhredhay102@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hredhayxz/
+Facebook: https://www.facebook.com/amhredhay/
+
 <!--
 **hredhayxz/hredhayxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
