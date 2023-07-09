@@ -10,7 +10,7 @@ Strong DSA and problem solving skill
 
 Frameworks : Flutter
 
-Database: SQLite
+Database: SQLite/ROOM
 
 Strong knowledge in RESTful web-services/API
 
