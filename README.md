@@ -10,8 +10,6 @@ Strong DSA and problem solving skill
 
 Frameworks : Flutter
 
-Database: SQLite/ROOM
-
 Strong knowledge in RESTful web-services/API
 
 Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team
