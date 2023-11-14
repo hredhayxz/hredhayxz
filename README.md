@@ -1,3 +1,8 @@
+### jamilxt! 👋 
+<img src="https://komarev.com/ghpvc/?username=hredhayxz&label=Views&color=a4c639&style=plastic" alt="hredhayxz" />
+
+
+
 ### Hi there 👋
 
 I am Md Alhaz Mondal Hredhay. I'm currently working on Mobile Development. As mobile app developer I use Flutter which is a framework for cross platform native app development and I really love it.
